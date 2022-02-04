@@ -262,7 +262,7 @@ function esVocal(letra){
   if(caracter.length>1){
     return "Dato incorrecto";
   }if (caracter == "a" || caracter == "e" || caracter == "i" ||caracter =="o" ||caracter == "u"){
-    return "Es vocal";
+    return "Es vocal"; 
   } 
     return "Dato incorrecto";
   
